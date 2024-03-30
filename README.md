@@ -6,6 +6,7 @@
 </p>
 
 ## Airbnb (Landing page): [GO LIVE](https://lalitpatil891.github.io/airbnb/) 
+#### Airbnb, Inc. is an American company operating an online marketplace for short- and long-term homestays and experiences.
 
 ### ScreenShots
 ![1](https://github.com/lalitpatil891/airbnb/assets/114104065/4b2a3626-5947-4fb6-8721-29a01c000431)
